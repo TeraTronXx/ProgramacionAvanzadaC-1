@@ -1,0 +1,3 @@
+﻿  FigurasGeometricas.cpp
+c:\users\luis.pinto\documents\figurasgeometricas2\figurasgeometricas\figurasgeometricas\figurasgeometricas\figurasgeometricas.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FigurasGeometricas.vcxproj -> C:\Users\luis.pinto\Documents\FigurasGeometricas2\FigurasGeometricas\FigurasGeometricas\Debug\FigurasGeometricas.exe

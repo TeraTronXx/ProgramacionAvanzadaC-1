@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Circulo.cpp
+  Cuadrado.cpp
+  Figura.cpp
+  FigurasGeometricas.cpp
+c:\users\luis.pinto\documents\entrega\figurasgeometricas\figurasgeometricas\figurasgeometricas.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rectangulo.cpp
+  Generating Code...
+  FigurasGeometricas.vcxproj -> C:\Users\luis.pinto\Documents\entrega\FigurasGeometricas\x64\Debug\FigurasGeometricas.exe
